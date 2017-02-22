@@ -1,0 +1,22 @@
+{
+  "packages": [
+    {
+      "name": "pikase",
+      "maintainer": "",
+      "websiteURL": "https://github.com/fanigu17/PIKASE-",
+      "email": "sergiojaramilloluna@gmail.com",
+      "platforms": [
+        {
+          "name": "PIKASE",
+          "architecture": "avr",
+          "version": "0.1.0",
+          "category": "Contributed",
+          "boards": [
+            {"name": "PIKASE"}
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}

@@ -8,9 +8,13 @@
       "platforms": [
         {
           "name": "PIKASE",
-          "architecture": "avr",
+           "architecture": "avr",
           "version": "0.1.0",
           "category": "Contributed",
+          "url": "https://github.com/fanigu17/PIKASE-/archive/v0.1.0.zip",
+          "archiveFileName": "PIKASE-0.1.0.zip",
+          "checksum": "SHA-256"
+          "size": "192.720",
           "boards": [
             {"name": "PIKASE"}
           ]

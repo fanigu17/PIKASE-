@@ -11,10 +11,23 @@
            "architecture": "avr",
           "version": "0.1.0",
           "category": "Contributed",
-          "url": "https://github.com/fanigu17/PIKASE-/archive/v0.1.0.zip",
+          "url": "https://github.com/fanigu17/PIKASE-/archive/v0.1.0.zip" ,
           "archiveFileName": "PIKASE-0.1.0.zip",
           "checksum": "SHA-256:d5b0ce5c2c73299cd5811aa0e8f2e95fed1eb05fdd9773df02cde435efd8b304",
           "size": "192720",
+          "boards": [
+            {"name": "PIKASE"}
+          ]
+        },
+        {
+          "name": "PIKASE",
+           "architecture": "avr",
+          "version": "0.2.0",
+          "category": "Contributed",
+          "url": "https://github.com/fanigu17/PIKASE-/archive/v0.2.0.zip" ,
+          "archiveFileName": "PIKASE-0.2.0.zip",
+          "checksum": "SHA-256:d4cd7a92a289d47ab3a0af8b6d91a501dffcb817b5737b7b9fb8364c98ddd54b",
+          "size": "192716",
           "boards": [
             {"name": "PIKASE"}
           ]
